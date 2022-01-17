@@ -479,6 +479,7 @@
     padding-right: 8px;
     position: relative;
     cursor: pointer;
+    z-index: 1;
 }
 .header__search-select-lable {
     font-size: 1.6rem;
