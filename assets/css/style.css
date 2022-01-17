@@ -176,6 +176,7 @@
     animation: headerNoticationGrowth ease-in .25s;
     will-change: opacity, transform;
     display: none;
+    z-index:1;
 }
 .header__notication::before {
     content: "";
